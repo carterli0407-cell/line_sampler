@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Socket files
+*.sock
+/tmp/*.sock
+
+# Data files
+data/*.txt
+!data/.gitkeep
+
+# Logs
+*.log
